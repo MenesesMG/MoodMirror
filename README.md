@@ -1,6 +1,14 @@
+
+![MoodMirror Logo](https://github.com/user-attachments/assets/bfad1476-f614-460e-86bd-221658fbaac2)
 # MoodMirror
 
 **MoodMirror** is a web application for facial expression recognition, leveraging the **Residual Masking Network** (RMN) for emotion detection. Initially a school project on **Google Colab**, the project has evolved into a fully deployed web app, built with **React** (frontend) and **Flask** (backend), styled with **Tailwind CSS**.
+
+### Landing Page
+![Landing Page](https://github.com/user-attachments/assets/bd03c319-959e-4145-a2a2-2af15789c23f)
+
+### Gallery Page
+![Gallery Page](https://github.com/user-attachments/assets/9baf7d42-70c3-413c-8dbd-d5d4a1a5f266)
 
 ## Features
 
